@@ -1,0 +1,1 @@
+ [Key.ctrl] c [Key.shift_r] Nonehello keyloger [Key.shift_r] None [Key.shift_r] None [Key.shift_r] None
